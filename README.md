@@ -55,32 +55,32 @@ Where:
 
 Example:
 
-bash```
+```
 python tictactoe.py human_player minimax_ai
-
+```
 
 ## Features
 
-Multiple AI Players: Play against different AI strategies or a human
++ Multiple AI Players: Play against different AI strategies or a human
 
-Command-Line Interface (CLI): Simple and interactive gameplay
++ Command-Line Interface (CLI): Simple and interactive gameplay
 
-Custom AI Implementations: Includes random AI, Minimax AI, and strategic AI algorithms
++ Custom AI Implementations: Includes random AI, Minimax AI, and strategic AI algorithms
 
-Benchmarking: Run repeated matches between AI players to analyze win/draw rates (benchmark.py)
++ Benchmarking: Run repeated matches between AI players to analyze win/draw rates (benchmark.py)
 
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or bug fixes, feel free to:
 
-Fork the project
++ Fork the project
 
-Create a new branch (git checkout -b feature/AmazingFeature)
++ Create a new branch (git checkout -b feature/AmazingFeature)
 
-Make your changes
++ Make your changes
 
-Commit your changes (git commit -m 'Add some AmazingFeature')
++ Commit your changes (git commit -m 'Add some AmazingFeature')
 
-Push to the branch (git push origin feature/AmazingFeature)
++ Push to the branch (git push origin feature/AmazingFeature)
 
-Open a Pull Request project, as well as detailing how to contribute effectively.
++ Open a Pull Request project, as well as detailing how to contribute effectively.
