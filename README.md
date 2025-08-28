@@ -43,7 +43,7 @@ finds_all_winning_moves_ai – AI tries to win and block losing moves.
 Example:
 python tictactoe.py human_player minimax_ai
 
-Features
+## Features
 
 Multiple AI Players: Play against different AI strategies or a human.
 
@@ -53,7 +53,7 @@ Custom AI Implementations: Includes random AI, Minimax AI, and strategic AI algo
 
 Benchmarking: Run repeated matches between AI players to analyze win/draw rates (via benchmark.py)
 
-Contributing
+## Contributing
 Contributions are welcome! If you have suggestions for improvements or bug fixes, feel free to:
 
 Fork the project
