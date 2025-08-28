@@ -34,24 +34,29 @@ This project only uses Python's standard library. Make sure you have Python 3.7 
 
 Run the game from the terminal:
 
+```bash
 python tictactoe.py <player1_type> <player2_type>
+```
 
 
-Where <player1_type> and <player2_type> can be:
+Where:
+<player1_type> and <player2_type> can be:
 
-human_player – Play as a human
+*human_player – Play as a human
 
-random_ai – AI picks a move randomly
+*random_ai – AI picks a move randomly
 
-minimax_ai – AI uses the Minimax algorithm
+*minimax_ai – AI uses the Minimax algorithm
 
-finds_own_winning_move_ai – AI tries to make a winning move
+*finds_own_winning_move_ai – AI tries to make a winning move
 
-finds_all_winning_moves_ai – AI tries to win and block losing moves
+*finds_all_winning_moves_ai – AI tries to win and block losing moves
 
 Example:
 
+bash```
 python tictactoe.py human_player minimax_ai
+
 
 ## Features
 
