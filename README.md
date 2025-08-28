@@ -36,6 +36,7 @@ Run the game from the terminal:
 
 ```bash
 python tictactoe.py <player1_type> <player2_type>
+
 ```
 
 
@@ -73,8 +74,13 @@ Benchmarking: Run repeated matches between AI players to analyze win/draw rates 
 Contributions are welcome! If you have suggestions for improvements or bug fixes, feel free to:
 
 Fork the project
+
 Create a new branch (git checkout -b feature/AmazingFeature)
+
 Make your changes
+
 Commit your changes (git commit -m 'Add some AmazingFeature')
+
 Push to the branch (git push origin feature/AmazingFeature)
+
 Open a Pull Request project, as well as detailing how to contribute effectively.
